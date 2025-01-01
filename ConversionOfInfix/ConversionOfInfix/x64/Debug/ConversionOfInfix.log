@@ -1,0 +1,3 @@
+﻿  InfixConversion.cpp
+D:\REPOS\ConversionOfInfix\ConversionOfInfix\InfixConversion.cpp(70,1): warning C4715: 'Stack<char>::prec': not all control paths return a value
+  ConversionOfInfix.vcxproj -> D:\REPOS\ConversionOfInfix\x64\Debug\ConversionOfInfix.exe
